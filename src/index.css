@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main_part{
+  margin: 24px 537px 0px 573px;
+}
+
+h1{
+  padding-left: 7px;
+}
+
+.input{
+  padding: 7px 95px 9px 6px;
+  margin: 0px 4px 1px -65px;
+}
+
+.button{
+  padding: 8px 25px 9px 6px;
+  background-color: white;
+  border-radius: 9px;
+  box-shadow: 2px 2px 5px -1px #101010;
+}
+
+.btn{
+  margin: 4px 0px 0px -31px;
+  padding: 0px 5px 0px 5px;
+}
+
+.todo{
+  display: flex;
+  margin: 18px 0px -23px 13px;
+}
+
+.button:hover{
+  box-shadow: 2px 2px 5px -1px #101010;
+}
